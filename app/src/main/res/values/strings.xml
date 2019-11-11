@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convert_from">Конвертировать из:</string>
+    <string name="convert_to">Конвертировать в:</string>
+    <string name="convert">Конвертировать</string>
+
+    <string name="conversion_rate">Курс конверсии: %1$s %2$s/%3$s</string>
+    <string name="conversion_result">Вы получите %1$s %2$s</string>
+
+    <string name="russian_ruble">Российский рубль</string>
+    <string name="enter_amount">Введите ссуму</string>
+    <string name="input_error_message">Ошибка ввода. Убедитесь, что сисло введено правильно</string>
+    <string name="load_error_message">Не удалось загрузить список валют</string>
+
+</resources>
